@@ -2,4 +2,4 @@
 snippets for  better lubuntu 
 
 /etc/fstab
-# mount smbfs
+// mount smbfs
